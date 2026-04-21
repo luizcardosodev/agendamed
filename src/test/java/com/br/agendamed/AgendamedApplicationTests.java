@@ -1,0 +1,13 @@
+package com.br.agendamed;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AgendamedApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
